@@ -1,0 +1,1 @@
+Unfinished experiment with QT + QML + LUA + Moonscript. Decided I liked GTK+ better. The bindings for GTK are just way superior. Plus vala is way nicer than C++.
